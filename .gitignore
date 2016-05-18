@@ -4,4 +4,6 @@
 *.lot
 *.gz
 *.toc
-*.
+*.log
+*.bbl
+*.sty
