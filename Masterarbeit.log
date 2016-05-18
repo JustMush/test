@@ -1,0 +1,359 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.11.20)  18 MAY 2016 22:26
+entering extended mode
+**Masterarbeit.tex
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("D:\Programme\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("D:\Programme\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+)
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\doku.sty")
+("D:\Programme\MiKTeX 2.9\tex\latex\german\german.sty" v2.5e 1998-07-08
+Package: german 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen103
+german -- \language number for Austrian undefined, default 22 used.
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count88
+\LTcapwidth=\dimen104
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count89
+\LT@rows=\count90
+\c@LT@tables=\count91
+\c@LT@chunks=\count92
+\LT@p@ftn=\toks14
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Programme\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Programme\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("D:\Programme\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("D:\Programme\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("D:\Programme\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("D:\Programme\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\Programme\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("D:\Programme\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen107
+\epsfysize=\dimen108
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\german\ngerman.sty" v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+LaTeX Info: Redefining \glqq on input line 255.
+LaTeX Info: Redefining \glq on input line 268.
+LaTeX Info: Redefining \flqq on input line 281.
+LaTeX Info: Redefining \frqq on input line 289.
+LaTeX Info: Redefining \flq on input line 297.
+LaTeX Info: Redefining \frq on input line 304.
+ngerman -- \language number for naustrian undefined, default 43 used.
+)
+("D:\Programme\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen109
+\nom@tempdim=\dimen110
+\nomitemsep=\skip47
+)
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+("D:\Programme\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen111
+\scratchbox=\box30
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen112
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks17
+)
+Package epstopdf Info: Source file: <TU-Logo.eps>
+(epstopdf)                    date: 2002-07-25 11:02:50
+(epstopdf)                    size: 1998441 bytes
+(epstopdf)             Output file: <TU-Logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-18 22:26:05
+(epstopdf)                    size: 126832 bytes
+(epstopdf)             Command: <epstopdf --outfile=TU-Logo-eps-converted-to.pd
+f TU-Logo.eps>
+(epstopdf)             \includegraphics on input line 66.
+Package epstopdf Info: Output file is already uptodate.
+ <TU-Logo-eps-converted-to.pdf, id=1, 97.36375pt x 113.42375pt>
+File: TU-Logo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use TU-Logo-eps-converted-to.pdf>
+Package pdftex.def Info: TU-Logo-eps-converted-to.pdf used on input line 66.
+(pdftex.def)             Requested size: 97.3635pt x 113.42346pt.
+ [1
+
+{C:/Dokumente und Einstellungen/All Users/Anwendungsdaten/MiKTeX/2.9/pdftex/con
+fig/pdftex.map} <C:/Dokumente und Einstellungen/Florian/Desktop/tex-vorlage/TU-
+Logo-eps-converted-to.pdf>]
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+[0
+
+]
+Kapitel 1.
+Package epstopdf Info: Source file: <BeispielBild.eps>
+(epstopdf)                    date: 2006-12-18 10:30:18
+(epstopdf)                    size: 991703 bytes
+(epstopdf)             Output file: <BeispielBild-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-18 22:26:07
+(epstopdf)                    size: 5095 bytes
+(epstopdf)             Command: <epstopdf --outfile=BeispielBild-eps-converted-
+to.pdf BeispielBild.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+<BeispielBild-eps-converted-to.pdf, id=13, 319.1925pt x 175.65625pt>
+File: BeispielBild-eps-converted-to.pdf Graphic file (type pdf)
+
+<use BeispielBild-eps-converted-to.pdf>
+Package pdftex.def Info: BeispielBild-eps-converted-to.pdf used on input line 1
+10.
+(pdftex.def)             Requested size: 272.12495pt x 149.7561pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 111.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 111.
+ [1
+
+ <C:/Dokumente und Einstellungen/Florian/Desktop/tex-vorlage/BeispielBild-eps-c
+onverted-to.pdf>]
+Kapitel 2.
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 164.
+
+
+[2
+
+]
+Kapitel 3.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 180.
+
+("D:\Programme\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
+
+ []
+
+[3
+
+]
+Anhang A.
+[4
+
+]
+Anhang B.
+[5
+
+]
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.lof")
+\tf@lof=\write4
+[6
+
+]
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.lot")
+\tf@lot=\write5
+[7
+
+]
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.bbl")
+[8
+
+]
+("C:\Dokumente und Einstellungen\Florian\Desktop\tex-vorlage\Masterarbeit.aux")
+ ) 
+Here is how much of TeX's memory you used:
+ 2044 strings out of 493921
+ 28865 string characters out of 3148813
+ 83867 words of memory out of 3000000
+ 5298 multiletter control sequences out of 15000+200000
+ 9809 words of font info for 34 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,9n,23p,322b,267s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Progra
+mme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programme/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Programme/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><D:/Programme/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><D:/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb><D:/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:
+/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Programme/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Programme/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><D:/Programme/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><D:/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><D:/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><D:
+/Programme/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Programme/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Masterarbeit.pdf (10 pages, 325197 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
